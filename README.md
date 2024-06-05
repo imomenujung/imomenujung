@@ -4,6 +4,8 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imomenujung&label=Profile%20views&color=0e75b6&style=flat" alt="imomenujung" /> </p>
+
 My name is Fadly Mochammad Taufiq and I'm an Undergraduate Statistics and Data Science student at IPB University. I'm from Bandung, living in Bogor. You can find me on [![LinkedIn][2.2]][2] or [![Tableu][3.2]][3].
 
 ## &#x1f4c8; GitHub Stats

@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Fadly Mochammad Taufiq and I'm an Undergraduate Statistics and Data Science student at IPB University. I'm from Bandung, living in Bogor. You can find me on [![LinkedIn][3.2]][2].
+My name is Fadly Mochammad Taufiq and I'm an Undergraduate Statistics and Data Science student at IPB University. I'm from Bandung, living in Bogor. You can find me on [![LinkedIn][2.2]][2] or [![Tableu][3.2]][3].
 
 ## &#x1f4c8; GitHub Stats
 
@@ -26,14 +26,15 @@ My name is Fadly Mochammad Taufiq and I'm an Undergraduate Statistics and Data S
 <!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/imomenujung/imomenujung/master/circle-linkedin-512-(1).png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/imomenujung/imomenujung/master/circle-linkedin-512-(1).png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/imomenujung/imomenujung/master/Tableu.png (Tableu icon without padding)
 
 
 <!-- links to your social media accounts -->
 
 [1]: https://github.com/imomenujung
 [2]: https://www.linkedin.com/in/fadly-mt/
+[3]: https://public.tableau.com/app/profile/fadly.mochammad.taufiq/
 
 
 <!-- Resources -->

@@ -16,7 +16,7 @@ My name is Fadly Mochammad Taufiq and I'm an Undergraduate Statistics and Data S
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/imomenujung/imomenujung/master/circle-linkedin-512 (1).png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/imomenujung/imomenujung/master/circle-linkedin-512_(1).png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->

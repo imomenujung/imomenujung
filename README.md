@@ -12,9 +12,9 @@ My name is Fadly Mochammad Taufiq and I'm an Undergraduate Statistics and Data S
 <div>
 
 ### Languages:
-| Python3 | R | SQL |
-|----------|----------|----------|
-|  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/Python3.png" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/R_logo.png" title="R"  alt="R" width="55" height="55"/> |  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/SQL.png" title="SQL" alt="SQL" width="55" height="55"/> |
+| Python3 | R | SQL | SAS |
+|----------|----------|----------|----------|
+|  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/Python3.png" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/R_logo.png" title="R"  alt="R" width="55" height="55"/> |  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/SQL.png" title="SQL" alt="SQL" width="55" height="55"/> | <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/SAS_logo.png" title="SQL" alt="SQL" width="134" height="55"/> |
 
 ## &#x1f4c8; GitHub Stats
 

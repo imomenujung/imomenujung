@@ -16,6 +16,11 @@ My name is Fadly Mochammad Taufiq and I'm an Undergraduate Statistics and Data S
 |----------|----------|----------|----------|
 |  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/Python3.png" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/R_logo.png" title="R"  alt="R" width="55" height="55"/> |  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/SQL.png" title="SQL" alt="SQL" width="55" height="55"/> | <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/SAS_logo.png" title="SAS" alt="SAS" width="134" height="55"/> |
 
+### Tools:
+| Jupyter | RStudio | VScode | Excel |
+|----------|----------|----------|----------|
+|  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/jupyter_logo.png" title="Jupyter"  alt="Jupyter" width="55" height="55"/> |  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/rstudio_logo.png" title="R Studio"  alt="Rstudio" width="55" height="55"/> |  <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/vscode_logo.png" title="VScode" alt="VSCode" width="55" height="55"/> | <img src="https://github.com/imomenujung/imomenujung/blob/main/Logo/Excel_logo.png" title="Excel" alt="Excel" width="55" height="55"/> |
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/imomenujung/imomenujung">

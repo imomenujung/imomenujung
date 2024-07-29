@@ -8,7 +8,7 @@
 
 My name is Fadly Mochammad Taufiq and I'm an Undergraduate Statistics and Data Science student at IPB University. I'm from Bandung, living in Bogor. You can find me on [![LinkedIn][2.2]][2] or [![Tableu][3.2]][3].
 
-## Languages and Tools 
+## Languages and Tools
 <div>
 
 ### Languages:
